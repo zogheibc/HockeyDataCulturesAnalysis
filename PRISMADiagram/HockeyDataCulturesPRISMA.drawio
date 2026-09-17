@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="3ncXQUCmOmIe3RmPLLnR">
+    <mxGraphModel dx="1191" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-11" edge="1" parent="1" source="zlcJjiPOI_QSs6mpN61J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="zlcJjiPOI_QSs6mpN61J-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-12" edge="1" parent="1" source="zlcJjiPOI_QSs6mpN61J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zlcJjiPOI_QSs6mpN61J-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-13" edge="1" parent="1" source="zlcJjiPOI_QSs6mpN61J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zlcJjiPOI_QSs6mpN61J-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Database Search&lt;/div&gt;&lt;div&gt;(n = 23642)&lt;/div&gt;&lt;div&gt;&amp;nbsp;SCOPUS = 134, Web of Science = 1598, Sports Medicine and Education Index = 6612, Canadian Newsstream Collection = 3497, US Newsstream Collection = 3411, Google News = 8390&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="310" x="70" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="588 Exact Duplicates Excluded" vertex="1">
+          <mxGeometry height="40" width="290" x="170" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-14" edge="1" parent="1" source="zlcJjiPOI_QSs6mpN61J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="zlcJjiPOI_QSs6mpN61J-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-15" edge="1" parent="1" source="zlcJjiPOI_QSs6mpN61J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zlcJjiPOI_QSs6mpN61J-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Title and Abstract/Summary Manually Screened&lt;/div&gt;&lt;div&gt;(n = 18661)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="310" x="70" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="4393 Excluded from Sports Medicine and Education Index via Title Keyword Search" vertex="1">
+          <mxGeometry height="40" width="290" x="170" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;17424 Excluded&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Does not satisfy inclusion criteria (n = 17412)&lt;/div&gt;&lt;div&gt;Missing information (n = 2)&lt;/div&gt;&lt;div&gt;Duplicates (n = 10)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="290" x="170" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-16" edge="1" parent="1" source="zlcJjiPOI_QSs6mpN61J-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="zlcJjiPOI_QSs6mpN61J-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Included for Compiled Dataset&lt;/div&gt;&lt;div&gt;(n = 1237)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="310" x="70" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-21" edge="1" parent="1" source="zlcJjiPOI_QSs6mpN61J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="zlcJjiPOI_QSs6mpN61J-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Manual Search of Conference Proceedings&lt;/div&gt;&lt;div&gt;(n = 145)&lt;/div&gt;&lt;div&gt;ISACE = 3, LINHAC = 30, HALO = 8, Sloan = 18, OTTHAC = 86&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="310" x="480" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-18" edge="1" parent="1" source="zlcJjiPOI_QSs6mpN61J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="zlcJjiPOI_QSs6mpN61J-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-19" edge="1" parent="1" source="zlcJjiPOI_QSs6mpN61J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zlcJjiPOI_QSs6mpN61J-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Total Search Results&lt;/div&gt;(n = 1382)" vertex="1">
+          <mxGeometry height="60" width="310" x="70" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="63 Exact Duplicates Excluded" vertex="1">
+          <mxGeometry height="40" width="290" x="170" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="zlcJjiPOI_QSs6mpN61J-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Publications included in Quantitative Analysis&lt;/div&gt;(n = 1319)" vertex="1">
+          <mxGeometry height="60" width="310" x="70" y="750" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
